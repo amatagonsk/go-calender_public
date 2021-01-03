@@ -1,0 +1,9 @@
+# .idea
+pkg/
+.idea/
+setting.ini
+
+# bulid
+%SystemDrive%/
+fyne.syso
+*.exe
