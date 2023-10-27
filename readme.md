@@ -17,10 +17,10 @@
 - TOP LEFT:`<`, `YYYY-MM`, `>`
   - change target year&month.
 
-- TOP RIGHT: 󰏫`pencil icon`
+- TOP RIGHT: ✏️`pencil icon`
   - launch text editor, current year&month markdown file.
 
-- TOP RIGHT: `gear icon`
+- TOP RIGHT: ⚙`gear icon`
   - edit text size, theme color. (need restart)
 
 # markdown rule
